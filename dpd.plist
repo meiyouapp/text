@@ -35,11 +35,11 @@
 				<key>bundle-identifier</key>
 				<string>cn.com.baidu.app</string>
 				<key>bundle-version</key>
-				<string>1.0.1</string>
+				<string>1.0.8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>releaseNotes</key>
-				<string>1.0.1</string>
+				<string>1.0.8</string>
 				<key>title</key>
 				<string>懂片帝</string>
 			</dict>
